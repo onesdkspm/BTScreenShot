@@ -11,7 +11,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/onesdkspm/BTSDKUIKitCore.git", from: "1.0.0"),
+        .package(url: "https://github.com/onesdkspm/BTSDKUIKitCore.git", from: "2.0.3"),
     ],
     targets: [
         // ========== Wrapper Target（统一管理系统依赖）==========
@@ -33,8 +33,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "BTScreenShot",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTScreenShot/2.0.2/BTScreenShot.xcframework.zip",
-            checksum: "dd16ad75a60f498b25c40069ab2b5502db17dc0ee5d57ad05d6d347092e255b3"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTScreenShot/2.0.3/BTScreenShot.xcframework.zip",
+            checksum: "e1a515e441de9c0a9c2edcd880e07c326698eab6c27d67b4b06613cc95d0309e"
         )
     ]
 )
