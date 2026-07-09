@@ -33,8 +33,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "BTScreenShot",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTScreenShot/2.0.3-dev-1481354/BTScreenShot.xcframework.zip",
-            checksum: "39ecaf33f564e9e31fded36908cd67b3913e961f1c867b35bfbe7bd45c07bf86"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTScreenShot/2.0.3-dev-1482586/BTScreenShot.xcframework.zip",
+            checksum: "455c1b0933bb2beb52d4ecb26c59619691a48abf815d8a482387d5c603cf146b"
         )
     ]
 )
